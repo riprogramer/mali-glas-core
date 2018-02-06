@@ -1,3 +1,5 @@
+Powering [CoinCoin](https://github.com/martinchapman/coincoin).
+
 # Naivecoin - a cryptocurrency implementation in less than 1500 lines of code
 
 [![Build Status](https://travis-ci.org/conradoqg/naivecoin.svg?branch=master)](https://travis-ci.org/conradoqg/naivecoin) [![Coverage Status](https://coveralls.io/repos/github/conradoqg/naivecoin/badge.svg?branch=master)](https://coveralls.io/github/conradoqg/naivecoin?branch=master)
