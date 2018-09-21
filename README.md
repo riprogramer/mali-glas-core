@@ -41,7 +41,3 @@ return difficulty;
 const REWARD_REDUCTION_BLOCKS = 500;
 return module.exports.MINING_REWARD / Math.ceil( blocks.length / REWARD_REDUCTION_BLOCKS );
 ```
-
-Powering 
-
-* [CoinCoin](https://github.com/martinchapman/coincoin)
